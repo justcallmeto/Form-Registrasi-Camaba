@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519090387073",
+    "project_id": "formmhsbaru",
+    "storage_bucket": "formmhsbaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519090387073:android:eb37b7d294a5d03bb4f580",
+        "android_client_info": {
+          "package_name": "com.example.form_pendaftaran2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbD2sblhu49ugo_jTolWJES9KugRGSvac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
